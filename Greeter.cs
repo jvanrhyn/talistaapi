@@ -10,6 +10,7 @@ using Newtonsoft.Json;
 
 namespace Talista.Examples
 {
+    //This should now deploy
     public static class Greeter
     {
         [FunctionName("Greeter")]
